@@ -5,7 +5,7 @@
       <p><b>Master Student</b></p>
       <p><b>School of Data Science</b></p>
       <p><b>yatingfu1998@163.com</b></p>
-      <p><b>Fudan Univerrsity×××</b></p>
+      <p><b>Fudan Univerrsity</b></p>
     </td>
     <td width="25%">
       <img src="/yatingfu.jpg" width="100%"> 

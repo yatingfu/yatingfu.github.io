@@ -8,7 +8,7 @@
       <p><b>Fudan University</b></p>
     </td>
     <td width="25%">
-      <img src="/yatingfu.jpg" width="100%"> 
+      <img src="/me.jpg" width="100%"> 
     </td>
   </tr>
 </table>

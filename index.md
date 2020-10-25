@@ -14,7 +14,6 @@
 </table>
 
 ### Research Interests
-- Medical image analysis (AI-assisted diagnosis & therapy)
-- Computer vision and machine intelligence
+- Social media visualization
 
 ### Selected Publications
